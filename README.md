@@ -11,13 +11,11 @@ This Power BI dashboard analyzes Coca-Cola's sales performance based on key metr
 
 ## 📂 Files Included
 - **`Dashboard-coca-cola.pbix`** → Power BI dashboard file
-- - **`dataset.csv`** → Sample dataset used in this analysis (if available)
 - **`images/`** → Screenshots of the dashboard
 - **`README.md`** → Project documentation
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)  
-*(Add a screenshot of the dashboard here)*
+![Dashboard Preview](https://github.com/asratnaa/project-coca-cola-power-bi/blob/main/coca%20cola.png)  
 
 ## 🛠️ Tools & Technologies Used
 - **Power BI** for data visualization
